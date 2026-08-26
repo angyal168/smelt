@@ -55,7 +55,7 @@ Paste in raw material: a science paper, blog post, YouTube transcript, documenta
 
 ## Where it goes
 
-- Save the smelt report to `vault-staging/smelted/YYYY-MM-DD_HHMM_[slug].md`
+- Save the smelt report to `smelted/YYYY-MM-DD_HHMM_[slug].md` (create the folder on first run; any notes directory works)
 - If any insight is immediately actionable, flag it: "This one's hot -- want me to act on [specific thing] now?"
 
 ## Rules
