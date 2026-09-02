@@ -26,6 +26,21 @@ Then paste content and type `/smelt` in any Claude Code session.
 Each insight gets: what it is, why it matters, and what to do with it. No fluff. Most 5000-word articles yield 3 insights. That's fine -- most material is slag.
 
 
+<!-- forge-plugin-install:v1 -->
+## Install as a Claude Code plugin
+
+One command instead of copying a file:
+
+```
+/plugin marketplace add angyal168/logos-protocol
+/plugin install smelt@forge-commands
+```
+
+That installs `/smelt` from the `forge-commands` marketplace, which also carries the
+other six free commands. The manual copy above still works and stays supported.
+
+<!-- /forge-plugin-install:v1 -->
+
 <!-- forge-usage:v1 -->
 
 ## What it actually does
